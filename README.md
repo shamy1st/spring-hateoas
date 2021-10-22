@@ -7,4 +7,5 @@
 ## Ref
 * https://spring.io/projects/spring-hateoas
 * https://www.baeldung.com/spring-hateoas-tutorial
+* https://www.youtube.com/watch?v=gCNAudrbWCo
 * https://www.youtube.com/watch?v=nVEmfmdDUXU
